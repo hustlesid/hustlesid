@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋🏻, My name is Siddhant Kumar.</h2>
+<h2 align="center">Hi 👋🏻, My name is Siddhant Kumar.</h2>
 
 ###
 
